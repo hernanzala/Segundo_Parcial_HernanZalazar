@@ -10,3 +10,5 @@ chiste aleatorio con esa categoria.
 
 Punto extra:
 Ponganle algo de color, graficos y amor.
+
+viewmodel y livedata
